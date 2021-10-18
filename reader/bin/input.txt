@@ -1,0 +1,10 @@
+101	CSK	Dhoni
+102	MI	Sachin
+101	CSK	Raina
+103	RCB	Kholi
+102	MI	Rohit
+101	CSK	Jadeja
+103	RCB	Devilliers
+102	MI	Pandya
+101	CSK	Duplessis
+103	RCB	Chachal

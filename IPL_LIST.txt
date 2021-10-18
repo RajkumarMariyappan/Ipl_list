@@ -1,0 +1,10 @@
+CSK	101	Dhoni	1	23
+CSK	101	Raina	3	87
+CSK	101	Duplessis	9	89
+CSK	101	Jadeja	6	90
+MI	102	Pandya	8	23
+MI	102	Sachin	2	45
+MI	102	Rohit	5	78
+RCB	103	Kholi	4	12
+RCB	103	Devilliers	7	56
+RCB	103	Chachal	10	57
